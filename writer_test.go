@@ -1,4 +1,4 @@
-package xz
+package xzgo
 
 import (
 	"bytes"
